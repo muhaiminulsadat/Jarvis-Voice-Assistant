@@ -13,7 +13,7 @@ This project uses speech recognition and text-to-speech (TTS) to provide a hands
 - Speak responses using pyttsx3
 - Time & Date announcements
 - Wikipedia search with spoken summary
-- Open websites like YouTube, Google, LinkedIn
+- Open websites like YouTube, Google, LinkedIn, Facebook
 - Close, minimize, maximize, restore, or switch active windows
 - Volume control: increase, decrease, mute
 - Brightness control: increase, decrease
