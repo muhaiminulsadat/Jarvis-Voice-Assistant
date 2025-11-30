@@ -35,7 +35,7 @@ This project uses speech recognition and text-to-speech (TTS) to provide a hands
 1. Create a virtual environment:
 
    ```bash
-   python -m venv jarvis
+   conda create --prefix .\jarvis python=3.11 -y
    ```
 
 2. Activate virtual environment:
