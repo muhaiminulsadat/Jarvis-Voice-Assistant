@@ -409,5 +409,9 @@ while True:
     
 
     else:
-        res = gemini_model_response(query)
-        speak(res)
+        try:
+            res = gemini_model_response(query)
+            speak(res)
+        except Exception as e:
+            speak("Something Error is happened. Probably you are not connected to internet.")
+
